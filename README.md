@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daviezu
+- 👋 Hi, I’m @daviezu aka david
 - 👀 I’m interested in software Engineering and database
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on small to large project by using Java, C, or Combination of HTML, CSS, & JavaScript.
