@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daviezu aka david
-- 👀 I’m interested in software Engineering and database
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on small to large project by using Java, C, or Combination of HTML, CSS, & JavaScript.
+- 👀 I’m interested in software Engineering and machine learning
+- 🌱 I’m currently learning Laravel, and ASP.NET
+- 💞️ I’m looking to collaborate on small to large projects related to software, web, mobile development, and artificial intelligence.
 - 📫 How to reach me
   email    : 1david.hng@gmail.com,
   discord  : @daviezu,
